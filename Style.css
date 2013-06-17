@@ -1,0 +1,82 @@
+html {
+	padding: 0; margin: 0; border: 10px solid white;
+}
+
+body {
+	height: 100%; padding: 0; margin: 0; border: 0;
+}
+
+div.name {
+	font-size: 42px;
+	color: #FF6600;
+	font-family: lato;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	margin-top: 50px;
+	margin-bottom: 2px;
+	margin-left: 10%;
+}
+
+div.title {
+	font-size: 16px;
+	color: #C0C0C0;
+	font-family: lato;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	width: 150;
+	padding: 3px;
+	border: none;
+	margin: 0px;
+	margin-top: -22px;
+	margin-left: 10%;
+}
+
+div.message {
+	font-size: 38;
+	color: #FF6600;
+	font-family: lato;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	width: 200px;
+	padding: 10px;
+	border: none;
+	margin: 0px;
+	margin-left: 9%;
+	margin-top: 95px;
+}
+
+div.info {
+	font-size: 17;
+	color: #FF6600;
+	font-family: lato;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	width: 400px;
+	padding: 10px;
+	border: none;
+	margin: 0px;
+	margin-left: 9%;
+	margin-top: 60px;
+}
+
+div.click {
+	list-style-type: none;
+	font-family: lato;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	margin: 0;
+	padding: 0;
+	margin-left: 10%;
+	margin-top: 50px;
+}
+
+a:hover {
+	color: #C0C0C0;
+}
+
+a {
+	color: #FF6600;
+	text-decoration: none;
+}
+
+body {
+	background: url(http://www.hrtecheurope.com/uploads/avatar/technology.jpg), (http://cdni.wired.co.uk/1920x1280/d_f/Female-coding.jpg);
+	background-size: 100% 100%;
+	background-repeat: repeat;
+}
+
